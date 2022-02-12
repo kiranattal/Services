@@ -1,0 +1,64 @@
+2022-02-09 23:36:59 ERROR - Notification - f482a34b-be9e-4864-8b28-9309cc758602
+2022-02-09 23:37:00 INFO - 127.0.0.1 - - [09/Feb/2022 23:37:00] "PUT /friendship/notification/Ninad HTTP/1.1" 200 -
+2022-02-09 23:40:04 INFO -  * Running on http://127.0.0.1:5002/ (Press CTRL+C to quit)
+2022-02-09 23:40:06 ERROR - Notification - f482a34b-be9e-4864-8b28-9309cc758602
+2022-02-09 23:40:08 INFO - 127.0.0.1 - - [09/Feb/2022 23:40:08] "PUT /friendship/notification/Ninad HTTP/1.1" 200 -
+2022-02-09 23:41:12 INFO -  * Running on http://127.0.0.1:5002/ (Press CTRL+C to quit)
+2022-02-09 23:41:14 ERROR - Notification - f482a34b-be9e-4864-8b28-9309cc758602
+2022-02-09 23:41:15 INFO - 127.0.0.1 - - [09/Feb/2022 23:41:15] "PUT /friendship/notification/Ninad HTTP/1.1" 200 -
+2022-02-09 23:42:20 INFO -  * Running on http://127.0.0.1:5002/ (Press CTRL+C to quit)
+2022-02-09 23:42:22 ERROR - Notification - f482a34b-be9e-4864-8b28-9309cc758602
+2022-02-09 23:42:24 ERROR - update() got an unexpected keyword argument 'merge'
+2022-02-09 23:42:24 INFO - 127.0.0.1 - - [09/Feb/2022 23:42:24] "[33mPUT /friendship/notification/Ninad HTTP/1.1[0m" 404 -
+2022-02-09 23:42:42 INFO -  * Running on http://127.0.0.1:5002/ (Press CTRL+C to quit)
+2022-02-09 23:42:44 ERROR - Notification - f482a34b-be9e-4864-8b28-9309cc758602
+2022-02-09 23:42:45 ERROR - update() got an unexpected keyword argument 'merge'
+2022-02-09 23:42:45 INFO - 127.0.0.1 - - [09/Feb/2022 23:42:45] "[33mPUT /friendship/notification/Ninad HTTP/1.1[0m" 404 -
+2022-02-09 23:43:02 INFO -  * Running on http://127.0.0.1:5002/ (Press CTRL+C to quit)
+2022-02-09 23:43:06 ERROR - Notification - f482a34b-be9e-4864-8b28-9309cc758602
+2022-02-09 23:43:07 ERROR - update() got an unexpected keyword argument 'merge'
+2022-02-09 23:43:07 INFO - 127.0.0.1 - - [09/Feb/2022 23:43:07] "[33mPUT /friendship/notification/Ninad HTTP/1.1[0m" 404 -
+2022-02-09 23:44:14 INFO -  * Running on http://127.0.0.1:5002/ (Press CTRL+C to quit)
+2022-02-09 23:44:17 ERROR - Notification - f482a34b-be9e-4864-8b28-9309cc758602
+2022-02-09 23:44:18 ERROR - update() got an unexpected keyword argument 'merge'
+2022-02-09 23:44:18 INFO - 127.0.0.1 - - [09/Feb/2022 23:44:18] "[33mPUT /friendship/notification/Ninad HTTP/1.1[0m" 404 -
+2022-02-09 23:44:35 ERROR - Notification - f482a34b-be9e-4864-8b28-9309cc758602
+2022-02-09 23:44:36 ERROR - update() got an unexpected keyword argument 'merge'
+2022-02-09 23:44:36 INFO - 127.0.0.1 - - [09/Feb/2022 23:44:36] "[33mPUT /friendship/notification/Ninad HTTP/1.1[0m" 404 -
+2022-02-09 23:45:05 ERROR - Notification - f482a34b-be9e-4864-8b28-9309cc758602
+2022-02-09 23:45:06 INFO - 127.0.0.1 - - [09/Feb/2022 23:45:06] "PUT /friendship/notification/Ninad HTTP/1.1" 200 -
+2022-02-09 23:49:40 INFO -  * Running on http://127.0.0.1:5002/ (Press CTRL+C to quit)
+2022-02-09 23:49:42 ERROR - Notification - f482a34b-be9e-4864-8b28-9309cc758602
+2022-02-09 23:49:44 ERROR - update() got an unexpected keyword argument 'merge'
+2022-02-09 23:49:44 INFO - 127.0.0.1 - - [09/Feb/2022 23:49:44] "[33mPUT /friendship/notification/Ninad HTTP/1.1[0m" 404 -
+2022-02-09 23:50:58 INFO -  * Running on http://127.0.0.1:5002/ (Press CTRL+C to quit)
+2022-02-09 23:51:00 ERROR - Notification - f482a34b-be9e-4864-8b28-9309cc758602
+2022-02-09 23:51:01 INFO - 127.0.0.1 - - [09/Feb/2022 23:51:01] "PUT /friendship/notification/Ninad HTTP/1.1" 200 -
+2022-02-09 23:51:07 ERROR - Notification - f482a34b-be9e-4864-8b28-9309cc758602
+2022-02-09 23:51:07 INFO - 127.0.0.1 - - [09/Feb/2022 23:51:07] "PUT /friendship/notification/Ninad HTTP/1.1" 200 -
+2022-02-09 23:53:42 INFO -  * Running on http://127.0.0.1:5002/ (Press CTRL+C to quit)
+2022-02-09 23:53:43 ERROR - Notification - f482a34b-be9e-4864-8b28-9309cc758602
+2022-02-09 23:53:45 INFO - 127.0.0.1 - - [09/Feb/2022 23:53:45] "PUT /friendship/notification/Ninad HTTP/1.1" 200 -
+2022-02-09 23:57:24 INFO -  * Running on http://127.0.0.1:5002/ (Press CTRL+C to quit)
+2022-02-09 23:57:26 ERROR - Notification - f482a34b-be9e-4864-8b28-9309cc758602
+2022-02-09 23:57:28 INFO - 127.0.0.1 - - [09/Feb/2022 23:57:28] "PUT /friendship/notification/Ninad HTTP/1.1" 200 -
+2022-02-09 23:58:59 INFO -  * Running on http://127.0.0.1:5002/ (Press CTRL+C to quit)
+2022-02-09 23:59:03 ERROR - Notification - f482a34b-be9e-4864-8b28-9309cc758602
+2022-02-09 23:59:04 INFO - 127.0.0.1 - - [09/Feb/2022 23:59:04] "PUT /friendship/notification/Ninad HTTP/1.1" 200 -
+2022-02-09 23:59:23 ERROR - Notification - f482a34b-be9e-4864-8b28-9309cc758602
+2022-02-09 23:59:24 INFO - 127.0.0.1 - - [09/Feb/2022 23:59:24] "PUT /friendship/notification/Ninad HTTP/1.1" 200 -
+2022-02-10 00:00:31 INFO -  * Running on http://127.0.0.1:5002/ (Press CTRL+C to quit)
+2022-02-10 00:00:43 ERROR - Notification - f482a34b-be9e-4864-8b28-9309cc758602
+2022-02-10 00:00:45 INFO - 127.0.0.1 - - [10/Feb/2022 00:00:45] "PUT /friendship/notification/Ninad HTTP/1.1" 200 -
+2022-02-10 00:02:06 ERROR - Notification - f482a34b-be9e-4864-8b28-9309cc758602
+2022-02-10 00:02:07 INFO - 127.0.0.1 - - [10/Feb/2022 00:02:07] "PUT /friendship/notification/Ninad HTTP/1.1" 200 -
+2022-02-10 00:02:30 ERROR - Notification - f482a34b-be9e-4864-8b28-9309cc758602
+2022-02-10 00:02:31 INFO - 127.0.0.1 - - [10/Feb/2022 00:02:31] "PUT /friendship/notification/Ninad HTTP/1.1" 200 -
+2022-02-10 00:06:10 INFO -  * Running on http://127.0.0.1:5002/ (Press CTRL+C to quit)
+2022-02-10 00:07:04 INFO - 127.0.0.1 - - [10/Feb/2022 00:07:04] "GET /friends/Kiran HTTP/1.1" 200 -
+2022-02-10 00:07:17 INFO - 127.0.0.1 - - [10/Feb/2022 00:07:17] "GET /friends/Ninad HTTP/1.1" 200 -
+2022-02-10 15:59:56 INFO -  * Running on http://127.0.0.1:5002/ (Press CTRL+C to quit)
+2022-02-10 16:00:20 INFO - 127.0.0.1 - - [10/Feb/2022 16:00:20] "[37mGET /friends/Ninad HTTP/1.1[0m" 200 -
+2022-02-10 16:00:31 INFO - {'requested_by': 'Kiran', 'requested_to': 'Ninad', 'status': None, 'requested_on': None}
+2022-02-10 16:00:32 INFO - 127.0.0.1 - - [10/Feb/2022 16:00:32] "[37mPOST /friendshiprequest HTTP/1.1[0m" 200 -
+2022-02-10 16:00:32 INFO - 127.0.0.1 - - [10/Feb/2022 16:00:32] "[37mGET /friends/Ninad HTTP/1.1[0m" 200 -

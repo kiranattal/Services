@@ -1,0 +1,19 @@
+2022-02-10 16:56:48 INFO -  * Running on http://127.0.0.1:5001/ (Press CTRL+C to quit)
+2022-02-10 16:56:50 INFO - {'created_by': '123456', 'post_description': None, 'is_visible': None}
+2022-02-10 16:56:50 INFO - This was args
+2022-02-10 16:56:50 INFO - 123456/Post - 399ed182-714f-43b6-9b88-03f231c2b133
+2022-02-10 16:56:52 INFO - Pic is getting uploaded
+2022-02-10 16:56:52 INFO - {'created_by': '123456', 'post_description': None, 'is_visible': None, 'created_on': 1644492412202, 'modified_on': 1644492412202, 'post_id': 'Post - 399ed182-714f-43b6-9b88-03f231c2b133', 'gcp_location': 'facebookpostsproject/123456/Post - 399ed182-714f-43b6-9b88-03f231c2b133'}
+2022-02-10 16:56:52 INFO - This is post doc
+2022-02-10 16:57:02 INFO - 123456
+2022-02-10 16:57:03 ERROR - 400 Invalid resource name given (name=projects/tactical-crow-340111/subscriptions/123456). Refer to https://cloud.google.com/pubsub/docs/admin#resource_names for more information.
+2022-02-10 16:57:03 INFO - 127.0.0.1 - - [10/Feb/2022 16:57:03] "[37mPOST //post HTTP/1.1[0m" 200 -
+2022-02-10 17:00:11 INFO -  * Running on http://127.0.0.1:5001/ (Press CTRL+C to quit)
+2022-02-10 17:00:13 INFO - {'created_by': 'U123456', 'post_description': None, 'is_visible': None}
+2022-02-10 17:00:13 INFO - This was args
+2022-02-10 17:00:13 INFO - U123456/Post - 60564ae1-e4a7-4af7-bebb-9523b1be97c4
+2022-02-10 17:00:15 INFO - Pic is getting uploaded
+2022-02-10 17:00:15 INFO - {'created_by': 'U123456', 'post_description': None, 'is_visible': None, 'created_on': 1644492615597, 'modified_on': 1644492615597, 'post_id': 'Post - 60564ae1-e4a7-4af7-bebb-9523b1be97c4', 'gcp_location': 'facebookpostsproject/U123456/Post - 60564ae1-e4a7-4af7-bebb-9523b1be97c4'}
+2022-02-10 17:00:15 INFO - This is post doc
+2022-02-10 17:00:33 INFO - U123456
+2022-02-10 17:00:52 INFO - 127.0.0.1 - - [10/Feb/2022 17:00:52] "[37mPOST //post HTTP/1.1[0m" 200 -

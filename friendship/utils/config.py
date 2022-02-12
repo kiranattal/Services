@@ -1,0 +1,8 @@
+project_id="tactical-crow-340111"
+friendship_collection_url="facebook-friendship/data/friendship"
+filename="friendship-microservice.txt"
+filemode="a"
+format="%(asctime)s %(levelname)s - %(message)s"
+datefmt="%Y-%m-%d %H:%M:%S"
+friendship_notification_collection_url="facebook-notification/friendship/notification"
+friends_collection_url="facebook-friendship/data/friends"

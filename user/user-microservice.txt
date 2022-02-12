@@ -1,0 +1,75 @@
+2022-02-07 21:26:09 INFO - User-f8f190a0-8683-11ec-8657-1e00310cd05
+2022-02-07 21:26:09 ERROR - Document doesnt existkiran_attal@scmhrd.edu
+2022-02-07 21:26:09 INFO - 127.0.0.1 - - [07/Feb/2022 21:26:09] "[33mPUT //user/User-f8f190a0-8683-11ec-8657-1e00310cd05 HTTP/1.1[0m" 404 -
+2022-02-07 21:31:19 INFO -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2022-02-07 21:31:21 INFO - User-f8f190a0-8683-11ec-8657-1e00310cd05
+2022-02-07 21:31:22 ERROR - Document doesnt existkiran_attal@scmhrd.edu
+2022-02-07 21:31:22 INFO - 127.0.0.1 - - [07/Feb/2022 21:31:22] "[33mPUT //user/User-f8f190a0-8683-11ec-8657-1e00310cd05 HTTP/1.1[0m" 404 -
+2022-02-07 21:38:00 INFO -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2022-02-07 21:38:02 INFO - User-f8f190a0-8683-11ec-8657-1e00310cd05
+2022-02-07 21:38:03 ERROR - Document doesnt existkiran_attal@scmhrd.edu
+2022-02-07 21:38:03 INFO - 127.0.0.1 - - [07/Feb/2022 21:38:03] "[31m[1mPUT //user/User-f8f190a0-8683-11ec-8657-1e00310cd05 HTTP/1.1[0m" 401 -
+2022-02-07 21:38:22 INFO -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2022-02-07 21:38:24 INFO - User-f8f190a0-8683-11ec-8657-1e00310cd05
+2022-02-07 21:38:25 ERROR - Document doesnt existkiran_attal@scmhrd.edu
+2022-02-07 21:38:25 INFO - 127.0.0.1 - - [07/Feb/2022 21:38:25] "[33mPUT //user/User-f8f190a0-8683-11ec-8657-1e00310cd05 HTTP/1.1[0m" 404 -
+2022-02-07 21:41:44 INFO -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2022-02-07 21:41:46 INFO - User-f8f190a0-8683-11ec-8657-1e00310cd05
+2022-02-07 21:41:47 ERROR - Document doesnt existkiran_attal@scmhrd.edu
+2022-02-07 21:41:47 INFO - 127.0.0.1 - - [07/Feb/2022 21:41:47] "[33mPUT //user/User-f8f190a0-8683-11ec-8657-1e00310cd05 HTTP/1.1[0m" 404 -
+2022-02-07 21:44:43 INFO -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2022-02-07 21:44:45 INFO - User-f8f190a0-8683-11ec-8657-1e00310cd05
+2022-02-07 21:44:46 ERROR - Document doesnt existkiran_attal@scmhrd.edu
+2022-02-07 21:44:46 ERROR - Exception on /user/User-f8f190a0-8683-11ec-8657-1e00310cd05 [PUT]
+Traceback (most recent call last):
+  File "/opt/homebrew/lib/python3.9/site-packages/flask/app.py", line 1950, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/opt/homebrew/lib/python3.9/site-packages/flask/app.py", line 1936, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "/opt/homebrew/lib/python3.9/site-packages/flask_restful/__init__.py", line 468, in wrapper
+    resp = resource(*args, **kwargs)
+  File "/opt/homebrew/lib/python3.9/site-packages/flask/views.py", line 89, in view
+    return self.dispatch_request(*args, **kwargs)
+  File "/opt/homebrew/lib/python3.9/site-packages/flask_restful/__init__.py", line 583, in dispatch_request
+    resp = meth(*args, **kwargs)
+  File "/Users/kiranattal/Desktop/MICROSERVICES/USER/user/resources/user.py", line 93, in put
+    not_found(404)
+  File "/Users/kiranattal/Desktop/MICROSERVICES/USER/user/resources/user.py", line 157, in not_found
+    return make_response(jsonify({"error":"Not Found"+error}),404)
+TypeError: can only concatenate str (not "int") to str
+2022-02-07 21:44:46 INFO - 127.0.0.1 - - [07/Feb/2022 21:44:46] "[35m[1mPUT //user/User-f8f190a0-8683-11ec-8657-1e00310cd05 HTTP/1.1[0m" 500 -
+2022-02-07 21:45:24 INFO -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2022-02-07 21:45:29 INFO - User-f8f190a0-8683-11ec-8657-1e00310cd05
+2022-02-07 21:45:30 ERROR - Document doesnt existkiran_attal@scmhrd.edu
+2022-02-07 21:45:30 INFO - 127.0.0.1 - - [07/Feb/2022 21:45:30] "[37mPUT //user/User-f8f190a0-8683-11ec-8657-1e00310cd05 HTTP/1.1[0m" 200 -
+2022-02-07 22:01:25 INFO - User-f8f190a0-8683-11ec-8657-1e00310cd05
+2022-02-07 22:01:26 ERROR - Document doesnt existkiran_attal@scmhrd.edu
+2022-02-07 22:01:26 INFO - 127.0.0.1 - - [07/Feb/2022 22:01:26] "[37mPUT //user/User-f8f190a0-8683-11ec-8657-1e00310cd05 HTTP/1.1[0m" 200 -
+2022-02-07 22:02:06 INFO -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2022-02-07 22:02:07 INFO - User-f8f190a0-8683-11ec-8657-1e00310cd05
+2022-02-07 22:02:09 ERROR - Document doesnt existkiran_attal@scmhrd.edu
+2022-02-07 22:02:09 INFO - 127.0.0.1 - - [07/Feb/2022 22:02:09] "[37mPUT //user/User-f8f190a0-8683-11ec-8657-1e00310cd05 HTTP/1.1[0m" 200 -
+2022-02-07 22:03:07 INFO -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2022-02-07 22:03:08 INFO - User-f8f190a0-8683-11ec-8657-1e00310cd05
+2022-02-07 22:03:10 ERROR - Document doesnt existkiran_attal@scmhrd.edu
+2022-02-07 22:03:10 INFO - 127.0.0.1 - - [07/Feb/2022 22:03:10] "[33mPUT //user/User-f8f190a0-8683-11ec-8657-1e00310cd05 HTTP/1.1[0m" 404 -
+2022-02-07 22:03:32 INFO -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2022-02-07 22:03:35 INFO - User-f8f190a0-8683-11ec-8657-1e00310cd05
+2022-02-07 22:03:41 ERROR - Document doesnt existkiran_attal@scmhrd.edu
+2022-02-07 22:03:41 INFO - 127.0.0.1 - - [07/Feb/2022 22:03:41] "[33mPUT //user/User-f8f190a0-8683-11ec-8657-1e00310cd05 HTTP/1.1[0m" 404 -
+2022-02-09 00:51:54 INFO - Running user app
+2022-02-09 00:51:54 INFO -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2022-02-09 00:52:18 INFO - User-f8f190a0-8683-11ec-8657-1e00310cd05
+2022-02-09 00:52:19 ERROR - Document doesnt existkiran_attal@scmhrd.edu
+2022-02-09 00:52:19 INFO - 127.0.0.1 - - [09/Feb/2022 00:52:19] "[33mPUT //user/User-f8f190a0-8683-11ec-8657-1e00310cd05 HTTP/1.1[0m" 404 -
+2022-02-09 00:52:52 INFO - Ninad
+2022-02-09 00:52:52 INFO - User-c187e1d0-8725-11ec-a8cf-1e00310cd079
+2022-02-09 00:52:52 INFO - Ninad
+2022-02-09 00:52:52 INFO - User-f8f190a0-8683-11ec-8657-1e00310cd078
+2022-02-09 00:52:52 INFO - Ninad
+2022-02-09 00:52:52 INFO - User-f91fe28e-8683-11ec-8657-1e00310cd078
+2022-02-09 00:52:52 INFO - Ninad
+2022-02-09 00:52:52 INFO - User-f950e58c-8683-11ec-8657-1e00310cd078
+2022-02-09 00:52:52 INFO - Ninad
+2022-02-09 00:52:52 INFO - User-f97cdb24-8683-11ec-8657-1e00310cd078
+2022-02-09 00:52:52 INFO - 127.0.0.1 - - [09/Feb/2022 00:52:52] "GET /user/Ninad HTTP/1.1" 200 -

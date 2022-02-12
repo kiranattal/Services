@@ -1,0 +1,10 @@
+flask_restful
+requests
+flask_session
+google.cloud
+google-auth
+google-cloud-firestore
+google-cloud-storage
+Flask
+uWSGI
+uwsgi

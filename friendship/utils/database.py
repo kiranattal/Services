@@ -1,0 +1,8 @@
+from utils.config import project_id, friendship_collection_url,friendship_notification_collection_url,friends_collection_url
+from google.cloud import firestore
+
+
+firestore_client=firestore.Client(project=project_id)
+friendship_collection=firestore_client.collection(friendship_collection_url)
+friendship_notification=firestore_client.collection(friendship_notification_collection_url)
+friends=firestore_client.collection(friends_collection_url)

@@ -9,11 +9,18 @@ headers = {
     'REFERER' : 'https://www.google.com/'
 }
 
-# for one_user in users:
-#response=requests.post(BASE+"user",data=users[0])
-    #print(response.json())
+users=[
+{"first_name":"Kiran","last_name":"Attal","email":"attal.kiran@gmail.com","date_of_birth":"250788","is_active":True},
+{"first_name":"Ninad","last_name":"Sakhadev","email":"ninadsakhadev@gmail.com","date_of_birth":"230684","is_active":True},
+{"first_name":"Cia","last_name":"Sakhadev","email":"ciasakhadev@gmail.com","date_of_birth":"281217","is_active":True},
+{"first_name":"Myra","last_name":"Sakhadev","email":"myrasakhadev@gmail.com","date_of_birth":"281217","is_active":True}
+]
 
-response=requests.get(BASE+"user/Ninad",allow_redirects=True,headers=headers)
+# for one_user in users:
+#     response=requests.post(BASE+"user",data=users[0])
+#     print(response.json())
+
+response=requests.get(BASE+"user/User-c187e1d0-8725-11ec-a8cf-1e00310cd079",allow_redirects=True,headers=headers)
 print(response.json())
 
 # response=requests.put(BASE+"/user/User-f8f190a0-8683-11ec-8657-1e00310cd05",json={"email":"kiran_attal@scmhrd.edu","last_name":"Attal","tags":["life","learning","swag"]})
